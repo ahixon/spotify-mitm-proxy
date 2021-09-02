@@ -1,0 +1,6 @@
+*.pyc
+netbin/extracted_*.*
+pyshn/build/
+pyshn/pyshn.c
+proto/*_pb2.py
+prodinfo.xml
